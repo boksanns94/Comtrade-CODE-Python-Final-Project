@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PyChess_2/.idea/PyChess_2.iml" filepath="$PROJECT_DIR$/../PyChess_2/.idea/PyChess_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyChess_Offline/.idea/PyChess_Offline.iml" filepath="$PROJECT_DIR$/../PyChess_Offline/.idea/PyChess_Offline.iml" />
+    </modules>
+  </component>
+</project>
